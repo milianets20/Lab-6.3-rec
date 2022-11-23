@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Lab6.3 rec test.cpp
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.3 rec.cpp\Lab6.3 rec\Lab6.3 rec.cpp(33,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.3 rec.cpp\Lab6.3 rec\Lab6.3 rec.cpp(29): warning C4715: find_maximum: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.3 rec.cpp\x64\Debug\Lab6.3 rec test.lib и объект C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.3 rec.cpp\x64\Debug\Lab6.3 rec test.exp
+  Lab6.3 rec test.vcxproj -> C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.3 rec.cpp\x64\Debug\Lab6.3 rec test.dll
